@@ -4,4 +4,4 @@
 const helloWorld = "Hello World";
 
 // 2. Log the variable in the console
-console.log("Hello World");
+console.log(helloWorld);
