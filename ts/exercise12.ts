@@ -8,10 +8,8 @@ type ab = 'a' | 'b';
 const a : ab = 'a';
 
 // 1. Create a variable of type ab which takes the form 'b''
-const b : ab = 'b';
 
 //2. Do the same with double quotations
-const b2 : ab = "b";
 
 //3. Now try to assign 'c'to a variable of type ab
 
