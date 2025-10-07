@@ -1,7 +1,7 @@
 // CONDITIONALS IN FUNCTIONS
 
 // 1. Create a function with a boolean parameter that logs "Hello World" when the parameter is true and "Goodbye World" when the parameter is false
-function greetings(parameter){
+function greetings(parameter: boolean){
   if (parameter == true){
     console.log("Hello World");
   }
