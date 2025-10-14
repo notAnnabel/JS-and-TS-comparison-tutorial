@@ -6,6 +6,7 @@ type Person = {
     age: number,
     gender: "F"|"M"|"NB"|"other";
 };
+// type can be used in any file, unlike interface
 
 // 1. Create a constant person object with name 'Mary' and age 25
 const human : Person={name:"Mary", age:25, gender:"F"};
